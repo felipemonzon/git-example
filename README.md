@@ -12,6 +12,9 @@
 * Spring Data
 * Eclipse IDE
 
+## version
+
+ALFA-1.0.0
 
 ## Estructura del proyecto
 
